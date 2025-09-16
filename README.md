@@ -35,3 +35,6 @@ It helps analyze sales performance, shipment trends, and distribution patterns t
 1. Clone this repository:
    ```bash
    git clone https://github.com/<your-username>/chocolate-sales-visualization.git
+
+## 🚀 Live Demo
+[Click Here👉]https://app.powerbi.com/view?r=eyJrIjoiNDg2NjIxOWItMjcyZS00NzRlLThkN2YtYzA3OTU4MWVlZDdhIiwidCI6ImM5MzA0OThmLTQ5MjMtNDllMS04MDc2LWYxMjU0NzZiMTVkOCJ9
